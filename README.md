@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="_DSC9703.jpg" alt="Profile Banner" width="100%">
+</p>
 
 # 👋 Hi there, I'm Juanma!
 
